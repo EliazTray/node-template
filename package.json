@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "lint": "eslint 'examples/**/*.{tsx,jsx,js,ts}'",
+    "lint": "eslint 'examples/**/*.{tsx,jsx,js,ts}' --debug",
     "lint:fix": "eslint 'examples/**/*.{tsx,jsx,js,ts}' --debug --fix"
   },
   "devDependencies": {

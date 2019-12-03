@@ -1,12 +1,12 @@
-import React from "react"
+import React from 'react'
 
 function test() {
-  const a = {};
+  const a = {}
   const c = a ?? 1
   return <A></A>
 }
 
-const a=params=> 1
+const a = params => 1
 console.log(a)
 
 export default test
